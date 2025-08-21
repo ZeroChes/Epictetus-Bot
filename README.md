@@ -43,6 +43,7 @@ OPENAI_API_KEY=ваш_openai_api_key
 ```python main.py```
 
 📁 Структура проекта
+```
 .
 ├── main.py          # Код бота
 ├── prompts/         # Промты-кирпичики (.txt файлы)
@@ -50,7 +51,7 @@ OPENAI_API_KEY=ваш_openai_api_key
 ├── .gitignore       
 ├── requirements.txt 
 └── README.md
-
+```
 🛠 Требования
 
 Python 3.9+
