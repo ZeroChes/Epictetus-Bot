@@ -4,7 +4,6 @@
 1. Клонирование репозитория
 ```
 git clone https://github.com/ZeroChes/Epictetus-Bot.git
-cd REPO_NAME
 ```
 
 2. Установка зависимостей
